@@ -8,3 +8,4 @@
 строка семь 
 master 1
 server 1
+client 1
