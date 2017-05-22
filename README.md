@@ -7,6 +7,7 @@
 строка шесть 
 строка семь 
 master 1
+v2
 server 1
 sever 2
 client 1
