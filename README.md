@@ -9,3 +9,6 @@ master 1
 f1-after stash
 f1
 stash
+
+
+f2
