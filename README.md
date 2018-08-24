@@ -9,3 +9,12 @@ master 1
 f1-after stash
 f1
 stash
+refactoring2
+refactoring3
+R#
+ch1
+R# 2
+ch2
+R# 2
+f2
+f3
